@@ -1376,6 +1376,9 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-r5fIMmZp7N {
+  background-image: url("../../../assets/images/video.gif");
+}
 .cid-r5fIMmZp7N .mbr-media span {
   font-size: 48px;
   cursor: pointer;
